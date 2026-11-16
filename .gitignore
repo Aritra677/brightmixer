@@ -1,0 +1,10 @@
+# Compiled binary executables
+brightmixer
+*.exe
+*.test
+*.out
+
+# Go build and cache directories
+/vendor/
+.vscode/
+.idea/
